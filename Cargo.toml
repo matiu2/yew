@@ -19,7 +19,7 @@ travis-ci = { repository = "DenisKolodin/yew" }
 anymap = "0.12"
 bincode = "=1.0.1"
 failure = "0.1"
-http = "0.1"
+http = { git = "https://github.com/matiu2/http.git" }
 log = "0.4"
 proc-macro-hack = "0.5"
 proc-macro-nested = "0.1"
